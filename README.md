@@ -1,5 +1,5 @@
 # ExportFBComments
- An app for exporting faceboog page comments
+ An app for exporting facebook page comments
 
 
 ### Setup
