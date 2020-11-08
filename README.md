@@ -2,7 +2,7 @@
  An app for exporting faceboog page comments
 
 
-###Setup
+### Setup
 0) Install requirements from requirements.txt file using (pip install -r requirements.txt)
 
 1) Run "fbot.py" once
